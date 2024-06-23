@@ -36,9 +36,5 @@ Input: 10 * (2 + 5) / 3
 Result: 23.3333
 ERROR HAANDLING - Error is shown if wrong syntax is inputed 
 try catch error handling mathod is used 
-![Alt Text](Screenshot (7).png)
-![Alt Text]()
-![Alt Text](url)
-![Alt Text](url)
-![Alt Text](url)
+
 
